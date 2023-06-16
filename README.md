@@ -88,6 +88,10 @@ There are several tutorials on how to configure DSM over the internet, which wil
 An ARPL user (Rikkie) created a tutorial to install ARPL on a proxmox server:
 https://hotstuff.asia/2023/01/03/xpenology-with-arpl-on-proxmox-the-easy-way/
 
+# Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NGm16wiQ848" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Troubles/questions/etc
 
 Please search the forums at https://xpenology.com/forum if your question/problem has been discussed and resolved. If you can't find a solution, use github issues.
